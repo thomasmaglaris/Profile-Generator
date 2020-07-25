@@ -1,0 +1,19 @@
+.team-heading {
+    background-color:crimson;
+}
+
+.card-header {
+    background-color: cornflowerblue;
+}
+
+.card {
+    margin: 10px;
+}
+
+.card-body {
+    background-color: lightgray;
+}
+
+.list-group-item {
+    font-weight: bold;
+}
